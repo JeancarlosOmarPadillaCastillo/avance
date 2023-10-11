@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #fcfbfb;
+}
+
+.custom-header {
+  width: 100%;
+  background-color: transparent;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 10px 20px; /* Ajusta el padding según tus preferencias */
+}
+
+.custom-header img {
+  margin-left: 5px;
+}
+.gradient-line {
+  width: 90%; /* Ajusta el porcentaje del ancho */
+  height: 5px; /* Ajusta el grosor de la línea */
+  background: linear-gradient(to right, blue, black); /* Color degradado de azul a negro */
+}
+.container {
+  margin-left: 5px; /* Cambiado a margin-left */
+}
+
+.titulo-principal {
+  margin-left: 5px; /* Cambiado a margin-left */
+}
+
